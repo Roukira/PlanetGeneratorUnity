@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a0e2b7a46a675c94cb7354c1d787006e, type: 3}
+  m_Name: Color
+  m_EditorClassIdentifier: 
+  planetColour: {r: 0.6132076, g: 0.16928999, b: 0, a: 1}
+  planetMaterial: {fileID: 2100000, guid: 59d90fee6c326b34d9d0ba9d1f76b1ff, type: 2}
+  waterMaterial: {fileID: 2100000, guid: 11b0dc34655d7954fb0aece867f36c9a, type: 2}
+  atmosphereMaterial: {fileID: 2100000, guid: c08167751897e65488f73356fb0f625d, type: 2}
+  showTemp: 0
